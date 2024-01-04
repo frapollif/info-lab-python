@@ -1,1 +1,6 @@
 "python.linting.pylintEnabled": true,
+"jupyter.kernels.filter": [
+    {
+      "path": "/bin/python3"
+    }
+  ]
