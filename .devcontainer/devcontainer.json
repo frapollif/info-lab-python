@@ -15,6 +15,7 @@
         "ms-toolsai.jupyter",
         "ms-python.python",
 				"ms-python.vscode-pylance",
+        
       ]
     }
   }
