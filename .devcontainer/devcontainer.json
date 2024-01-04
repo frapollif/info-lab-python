@@ -13,10 +13,8 @@
     "vscode": {
       "extensions": [
         "ms-toolsai.jupyter",
-        "ms-python.vscode-pylance",
-        "ms-python.pylint"
-
-        
+        "ms-python.vscode-pylance"
+       
       ]
     }
   }
