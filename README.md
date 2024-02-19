@@ -14,3 +14,5 @@ In questo laboratorio lavoreremo sugli aspetti base della programmazione utilizz
 
 [Introduzione](01-intro/intro.ipynb)
 
+[Conversione, operazioni e stringhe](02-Conversioni-operazioni/02-conversioni_op.ipynb)
+
